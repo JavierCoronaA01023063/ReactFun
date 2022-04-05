@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background: url("https://p4.wallpaperbetter.com/wallpaper/125/760/865/ripple-xrp-hd-wallpaper-wallpaper-preview.jpg");
+  background-image: url("https://p4.wallpaperbetter.com/wallpaper/125/760/865/ripple-xrp-hd-wallpaper-wallpaper-preview.jpg");
   min-height: 100vh;
   display: flex;
   flex-direction: column;
