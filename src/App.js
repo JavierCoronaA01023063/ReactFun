@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="A01023063_App">
-      <header className="A01023063_App">
+    <div className="App">
+      <header className="App-header">
         <img src="https://cdn.iconscout.com/icon/free/png-256/xrp-3229129-2716586.png" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
