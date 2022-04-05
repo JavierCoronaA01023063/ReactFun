@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="A01023063_App">
       <header className="A01023063_App">
-        <img src="https://cryptologos.cc/logos/dogecoin-doge-logo.png?v=022" />
+        <img src="https://cdn.iconscout.com/icon/free/png-256/xrp-3229129-2716586.png" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
